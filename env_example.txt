@@ -1,7 +1,7 @@
 # إعدادات البوت
-BOT_TOKEN=8297356555:AAGiZIq78Ke_LvP4lfj-hQJU-xBmJhWNE8A
-OWNER_ID=8091063730
-CHANNEL_ID=@h2tow
+BOT_TOKEN=your_token_bot
+OWNER_ID=your_id
+CHANNEL_ID=your_chennel_id
 
 # إعدادات Clarifai
-CLARIFAI_API_KEY=bfd990f5ed8e46a892146b576a4c8e71
+CLARIFAI_API_KEY=your_api_kye
